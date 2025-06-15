@@ -1,13 +1,20 @@
-Hi there! 👋 I'm Kwanda Ngovela
+Hi there! 👋 I'm Kwanda Ngovela.
+
 🎓 About Me
+
 Final year student passionate about programming and technology! Currently exploring various programming languages and building my skills in software development.
+
 🚀 Tech Stack & Skills
 Languages I'm comfortable with:
 
 Python 🐍 - Main programming language
+
 HTML 🌐 - Web structure
+
 CSS 🎨 - Styling and design
+
 PHP 💜 - Server-side scripting
+
 C++ ⚡ - Systems programming
 
 Currently Learning:
@@ -33,7 +40,6 @@ Show Image
 📧 Email: your.kwandasngovela@gmail.com
 🌐 Portfolio: [Your Portfolio Website]
 
-💡 Fun Facts
 
 🎯 Goal: To become a proficient full-stack developer
 📚 Always eager to learn new technologies
