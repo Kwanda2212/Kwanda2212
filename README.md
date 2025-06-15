@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there! 👋 I'm Kwanda Ngovela
+🎓 About Me
+Final year student passionate about programming and technology! Currently exploring various programming languages and building my skills in software development.
+🚀 Tech Stack & Skills
+Languages I'm comfortable with:
 
-<!--
-**Kwanda2212/Kwanda2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python 🐍 - Main programming language
+HTML 🌐 - Web structure
+CSS 🎨 - Styling and design
+PHP 💜 - Server-side scripting
+C++ ⚡ - Systems programming
 
-Here are some ideas to get you started:
+Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Advanced Python concepts
+Web development best practices
+Software engineering principles
+Data structures and algorithms
+
+🌱 What I'm Working On
+
+Building projects to strengthen my programming fundamentals
+Exploring different domains of software development
+Preparing for my transition from student to professional developer
+
+📊 GitHub Stats
+Show Image
+🛠️ Languages
+Show Image
+📫 Let's Connect!
+
+💼 LinkedIn: [www.linkedin.com/in/kwanda-ngovela-46555a328]
+📧 Email: your.kwandasngovela@gmail.com
+🌐 Portfolio: [Your Portfolio Website]
+
+💡 Fun Facts
+
+🎯 Goal: To become a proficient full-stack developer
+📚 Always eager to learn new technologies
+🔍 Love solving coding challenges and puzzles
+
+
+⭐️ From Kwanda2212
