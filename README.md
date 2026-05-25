@@ -2,7 +2,7 @@ Hi there! 👋 I'm Kwanda Ngovela.
 
 🎓 About Me
 
-Final year student passionate about programming and technology! Currently exploring various programming languages and building my skills in software development.
+Software Engineering Honors student passionate about programming and technology! Currently exploring various programming languages and building my skills in software development.
 
 🚀 Tech Stack & Skills
 Languages I'm comfortable with:
